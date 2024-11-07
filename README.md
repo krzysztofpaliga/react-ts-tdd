@@ -1,6 +1,6 @@
 # react-ts-tdd
 
-Training React the TDD way
+Training React the TDD way (vitest)
 
 Following the tutorial
 
